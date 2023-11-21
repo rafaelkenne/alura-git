@@ -1,0 +1,29 @@
+[33mcommit 5531a8e66afa87ac9063da4d779cbfcbf731e696[m[33m ([m[1;36mHEAD -> [m[1;32mtitulo[m[33m)[m
+Author: Rafael Kenne <rakenvi@gmail.com>
+Date:   Mon Nov 6 15:45:48 2023 -0300
+
+    alterando titulo da pagina
+
+[33mcommit 884d950dc41dac8dd1ce2f51acdd044b49ffbd89[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlocal1/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: rafaelkenne <rakenvi@gmail.com>
+Date:   Tue Oct 17 11:33:31 2023 -0300
+
+    Renomeando cursos
+
+[33mcommit a7480f36ca7299670a66d7424a6a786d969632dc[m
+Author: Rafael Kenne <rakenvi@gmail.com>
+Date:   Wed Oct 4 16:19:22 2023 -0300
+
+    add gitignore
+
+[33mcommit 54d49d68efaf097be40bca9791834efda770eeea[m
+Author: rafaelkenne <rakenvi@gmail.com>
+Date:   Wed Oct 4 15:18:59 2023 -0300
+
+    Acento adicionado no curso de Integração Continua
+
+[33mcommit 804a0dd1121fbf32dd99241183231ed83929b9fd[m
+Author: rafaelkenne <rakenvi@gmail.com>
+Date:   Wed Oct 4 15:17:09 2023 -0300
+
+    Criando arquivo index.html com lista de cursos
